@@ -3,62 +3,62 @@ Welcome to Sharetronix Opensource
   Sharetronix Opensource is a multimedia microblogging platform. It helps
   people in a community, company, or group to exchange short messages over
   the Web. Find more information in http://developer.sharetronix.com/
-  -------------------------
+-------------------------
 
 License
-  -------------------------
+-------------------------
   Please check out the license.txt file. By installing Sharetronix, you
   agree to all the conditions of the license and also to the Sharetronix
   Terms of Use: http://developer.sharetronix.com/license
-  -------------------------
+-------------------------
   
 Powered by Sharetronix link
-  -------------------------
+-------------------------
   Please check out the license.txt file. By installing Sharetronix, you
   agree to keep the Powered by Sharetronix backlink in your system. If you wish to   
   remove the link you need to purchase a link removal option. To do so please go to   
   http://developer.sharetronix.com/appstore/app/name/Powered%20By%20Sharetronix%20Link%20Removal/id/8
   
 INSTALLATION
-  -------------------------
+-------------------------
   To install Sharetronix Opensource on your webserver, upload the contents
   of the "upload/" folder to the preferred location on your webserver
   (wherever you want to install Sharetronix) with your favorite FTP client.
   Open with your browser the "install" location in this folder and follow
   the steps in the installation wizard.
-  -------------------------
+-------------------------
 
 UPGRADE
-  -------------------------
+-------------------------
   To upgrade Sharetronix Opensource from a previous version, just follow
   the Installation steps. Replace the old installation files with the
   contents of the "upload/" folder and run the installation wizard. But
   first - don't forget to backup your old installation (database and files)
   - it's important!
-  -------------------------
+
 
 System Requirements
-  -------------------------
+-------------------------
   - Apache Web Server
   - MySQL version 5.0 or higher
   - PHP version 5.2 or higher
-  -------------------------
+
 
 Official website
-  -------------------------
+-------------------------
   http://sharetronix.com
   http://sharetronixmicro.com
   http://developer.sharetronix.com/
-  -------------------------
+-------------------------
 
 Important security setting
-  --------------------------
+--------------------------
   
 If you want to increase the security level of attached images and files in your community, 
 uncomment the row "php_flag engine off" in ./static/.htaccess and ./storage/.htaccess files
 
 Mail send problems
-  --------------------------
+--------------------------
   
   If you have problems with the emails distribution and one of these two problems:
   - send emails with empty body
@@ -86,11 +86,11 @@ Mail send problems
   Note: please backup the file ./system/helpers/func_main.php before applying any changes
 
 
-  -------------------------
+-------------------------
 
 Using Google reCaptcha
 
-  -------------------------
+-------------------------
   
   To activate the google reCaptcha on your sharetronix community follow the steps below:
   1. Go to https://www.google.com/recaptcha/admin/create 
@@ -100,20 +100,20 @@ Using Google reCaptcha
   5. Enter the value for the public key at $C->GOOGLE_CAPTCHA_PUBLIC_KEY
   
 
-  -------------------------
+-------------------------
   
 One click install
   
-  -------------------------
+-------------------------
   Softaculous 	- http://www.softaculous.com/softwares/microblogs/Sharetronix
   AMPPS		- http://www.ampps.com/apps/php/microblogs/Sharetronix
   
   
-  -------------------------
+-------------------------
   
 FACEBOOK CONNECT
 
-  -------------------------
+-------------------------
   To activate Facebook Connect integration for your Sharetronix site, first
   you have to register a Facebook application and get its API key:
   1. Complete the Sharetronix installation/upgrade script
@@ -131,11 +131,11 @@ FACEBOOK CONNECT
   $C->FACEBOOK_API_SECRET	= 'Your app secret';
 
 
-  -------------------------
+-------------------------
   
 TWITTER CONNECT
 
-  -------------------------
+-------------------------
   To activate Twitter OAuth Login for your Sharetronix site, first you have
   to register a Twitter application and get its Consumer KEY and SECRET:
   1. Complete the Sharetronix installation/upgrade script
@@ -151,11 +151,11 @@ TWITTER CONNECT
   7. You MUST also put a Callback URL in the SETTINGS tab in your twitter application. Set it to your community URL
   
   
-  -------------------------
+-------------------------
   
 BIT.LY
 
-  -------------------------
+-------------------------
   To activate Bit.ly
   
   1. Create an account in Bit.ly 
