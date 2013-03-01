@@ -1,0 +1,3 @@
+<?php
+
+	$this->redirect('home');
