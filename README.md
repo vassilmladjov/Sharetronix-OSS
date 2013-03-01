@@ -67,7 +67,6 @@ Mail send problems
   You can resolve this issue by changing a few items in the file ./system/helpers/func_main.php
   Go to line 126 and delete all lines that contain the phrase (DELETE_THIS_LINE):
   
-  ----------------------------------------------
   /*  (DELETE_THIS_LINE) This is a fix for everybody with mail issues (2 types)
       (DELETE_THIS_LINE) 1. Your script send mails with blank body
       (DELETE_THIS_LINE) 2. Your script send mails with missing text in the mail body
@@ -77,15 +76,12 @@ Mail send problems
   do_send_mail($email, $subject, $message_txt, $from);
 	return;
  
-   (DELETE_THIS_LINE)*/
-  ----------------------------------------------        
+   (DELETE_THIS_LINE)*/       
   
   Once you have deleted the lines you should have only the following code left:
  
-  ----------------------------------------------
    do_send_mail($email, $subject, $message_txt, $from);
    return;
-  ----------------------------------------------
  
   Note: please backup the file ./system/helpers/func_main.php before applying any changes
 
