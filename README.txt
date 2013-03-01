@@ -1,5 +1,5 @@
 Welcome to Sharetronix Opensource
-  ------------------------
+  -------------------------
   Sharetronix Opensource is a multimedia microblogging platform. It helps
   people in a community, company, or group to exchange short messages over
   the Web. Find more information in http://developer.sharetronix.com/
