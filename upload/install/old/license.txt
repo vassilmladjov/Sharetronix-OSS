@@ -1,0 +1,404 @@
+Last modified:  November 14, 2012
+
+SHARETRONIX SOFTWARE
+PERSONAL USE LICENSE TERMS AND CONDITIONS
+
+IMPORTANT - READ CAREFULLY:
+
+THESE SOFTWARE LICENSE TERMS AND CONDITIONS CONSTITUTE A LEGAL AGREEMENT ("AGREEMENT") BETWEEN YOU AND SHARETRONIX, 
+LLC ("SHARETRONIX") WITH RESPECT TO YOUR USE OF THE SHARETRONIX SOFTWARE.  BY INSTALLING, COPYING, DOWNLOADING OR 
+OTHERWISE ACCESSING THE SOFTWARE YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU ARE ENTERING INTO THIS 
+AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY 
+TO THESE TERMS AND CONDITIONS, IN WHICH CASE THE TERMS "YOU" OR "YOUR" SHALL REFER TO SUCH ENTITY.  IF YOU DO NOT HAVE 
+SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE LICENSE TERMS AND CONDITIONS YOU MAY NOT USE OR COPY THE SOFTWARE, 
+AND YOU SHOULD PROMPTLY DESTROY ALL COPIES OF THE SOFTWARE AND DOCUMENTATION. 
+
+1. DESCRIPTION OF SOFTWARE
+
+Sharetronix's software is a microblogging and social networking platform provided to you in source code form. The software 
+and documentation together are the "Software" for the purposes of this Agreement.
+
+From time to time, Sharetronix may make updates to the Software available to you.  If you wish to update your Software, 
+you must agree to the then-current Software license in order to receive the update.
+
+2. LICENSE GRANT
+
+Subject to the terms and conditions of this Agreement (including without limitation the terms of Section 3 below), 
+Sharetronix grants you a non-exclusive, non-sublicensable and non-transferable license during the term of this Agreement (a) 
+to use, reproduce and make derivative works of the Software only for your personal use, expressly excluding any business 
+purpose of any kind, and (b) to use, reproduce, and make derivative works of the Software in connection with the development 
+of applications intended to interface with the Software and modifications to the user interface of the Software 
+(collectively, "Your Developments").  No distribution rights are granted herein with respect to any derivative works 
+of the Software, nor any of Your Developments using any portion of the Software (including without limitation any 
+application programming interfaces to the Software), and "business purposes" includes, without limitation, communication 
+within a company, work-related communication among employees, project management work, communication with clients or potential 
+clients, or any offer of the use of the Software to any third party, without regard to whether you charge a fee for such use.
+
+You agree that any distribution rights with respect to any derivative works of the Software and any of Your Developments 
+using any portion of the Software (including without limitation any application programming interfaces to the Software) 
+shall be subject to the terms and conditions of a separate agreement between you and Sharetronix, and that you will not 
+distribute or otherwise make any such items available to any third party unless and until Sharetronix has granted you 
+such rights under such separate agreement.
+
+Sharetronix may, but has no obligation to, provide customer support and/or software upgrades, enhancements, or modifications 
+for the Software (collectively, "Support").  Any Support Sharetronix may provide is provided in Sharetronix's sole discretion, 
+and Sharetronix may terminate such Support at any time without notice to you. Sharetronix may change, suspend, or discontinue 
+any aspect of the Software at any time, including the availability of any feature, interface or function.
+ 
+Sharetronix retains all right, title, and interest in and to the Products, all derivative works thereof, and all associated 
+intellectual property rights in each of those. All rights in the Products not expressly granted hereunder are reserved. Except 
+as expressly permitted in this Agreement you shall not cause or permit: (a) sublicensing, or (b) access or other dissemination 
+of the Software, in whole or in part, to any third party. No right, title or interest in or to any Sharetronix trademark, 
+service mark, trade name, or logo of Sharetronix or its licensors in granted under this Agreement.
+
+3. DERIVATIVE WORKS
+
+A "Derivative Work" is any derivative work or modification of, or any improvement to, the Software, including any implementation 
+of any application programming interfaces or other interfaces to the Software, any portion of Your Development that consists of 
+the foregoing, and any of Your Developments you submit to Sharetronix through any mechanism not specifically identified by 
+Sharetronix as the exclusive submission mechanism for distribution of Your Developments. You may submit Derivative Works to 
+Sharetronix by any means that may be available to you, but you are under no obligation to do so, and Sharetronix is under no 
+obligation to accept any Derivative Work you may submit to Sharetronix nor to include any Derivative Work in any Software. 
+All Derivative Works shall be subject to the terms and conditions of this Agreement, without any additional terms or conditions 
+unless otherwise expressly agreed by Sharetronix in a signed agreement or a form agreement provided by Sharetronix. 
+Sharetronix receives no ownership rights in Your Developments under this Agreement except as expressly set forth in this Section 3.
+
+As a condition to your use of the Software, you hereby irrevocably assign to Sharetronix all right, title and interest in and to 
+any and all Derivative Works you may create, including but not limited to all copyrights, moral rights, and other proprietary 
+rights therein (other than patents), existing under the law of any country in the world, or under any treaty 
+(collectively, ("Intellectual Property Rights"). You will execute all documents as reasonably requested by Sharetronix to 
+perfect any such rights in the Derivative Works in Sharetronix. 
+
+To the extent that under any applicable mandatory law, such rights are not assigned under this Agreement, you hereby grant Sharetronix 
+an exclusive (or non-exclusive if an exclusive license is not permitted under applicable law), unconditional, fully-paid, 
+royalty-free, worldwide, perpetual, irrevocable, transferable, assignable, and sublicenseable (to any number of tiers) license 
+to fully use, exercise, exploit and commercialize the Derivative Works and all Intellectual Property Rights therein in any manner 
+now known or in the future discovered. 
+
+To the extent such license grant is non-exclusive or not fully valid, effective or enforceable under applicable mandatory law, you 
+hereby grant to Sharetronix (and anyone requested by Sharetronix), such rights and permissions (and to impose restriction on third parties) 
+as Sharetronix reasonably requests from time to time for Sharetronix to have a legal and business position as close as possible 
+to full and exclusive legal ownership.
+
+You hereby grant to Sharetronix and to and to any and all individuals and entities who obtain, access, use, or distribute any Sharetronix 
+product or derivative work thereof (by whomever made) a perpetual, non-exclusive, worldwide, fully paid-up, royalty free, sublicensable, 
+assignable, irrevocable (except as set forth below with respect to litigation) license to any patent rights to make, have made, use, 
+offer to sell, sell, import, and otherwise exploit or transfer your Derivative Works or further derivative works thereof (by whomever made), 
+where such license applies only to those patent claims licensable by you that are necessarily infringed by your Derivative Work alone 
+or by combination of your Derivative Work with other works associated with the Software. The patent license granted in this paragraph 
+shall immediately terminate with respect to any party that institutes patent litigation against you or Sharetronix 
+(including a cross-claim or counterclaim in a lawsuit) alleging that your Derivative Work, or the Software work to which you have 
+contributed, constitutes direct or contributory or other indirect patent infringement, or which seeks to invalidate your patent 
+claims or any Sharetronix patent claims.
+
+At no time hereafter shall You dispute, contest, or aid or assist others in disputing or contesting, either directly or indirectly, 
+Sharetronix's rights in any and all Derivative Works, including (but not limited to) any and all Intellectual Property Rights and 
+patent rights therein.  You also hereby forever waive and agree never to assert against Sharetronix, its successors, licensees, or 
+assignees, any and all moral rights you may have in any Derivative Works. 
+
+Upon making the assignment and grants set forth in this Section, you shall receive from Sharetronix a non-exclusive, worldwide, fully paid-up, 
+royalty-free, irrevocable license under the rights you have assigned or exclusively licensed to Sharetronix to use, exercise, exploit and 
+commercialize your Derivative Works and all Intellectual Property Rights therein (exclusive of any Software and any underlying Sharetronix 
+or third party Intellectual Property Rights) in any manner now known or in the future discovered.
+
+Upon public release of Software that includes your Derivative Work, unless you clearly communicate otherwise to Sharetronix, Sharetronix may 
+identify you in any acknowledgements section of the documentation.
+
+You represent and warrant the following with respect to all Derivative Works you submit to Sharetronix or make available to any third party: 
+(a) you are of the age of majority in your jurisdiction, and you are legally entitled to grant the above assignment and license; 
+(b) the assignment and license above do not conflict in any way with any of your obligations to or agreements with any third party, 
+including without limitation your employer; (c) no third party materials or Intellectual Property Rights are included in any 
+Derivative Work, including any of either of the foregoing belonging to your employer or that you have licensed to any third party, 
+and the rights you have granted herein do not constitute a violation of any third party rights; (d) no permission, consent, approval 
+or license is required from any government entity or third party for Sharetronix to fully exploit the rights you have granted Sharetronix 
+in the Derivative Works; and (e) you will promptly notify Sharetronix of any facts or circumstances of which you become aware that would 
+cause any of the foregoing representations and warranties to be untrue or inaccurate. 
+EXCEPT FOR THE FOREGOING EXPRESS WARRANTIES, YOU DISCLAIM ALL WARRANTIES OF ANY KIND TO SHARETRONIX WITH RESPECT TO THE DERIVATIVE 
+WORKS, EITHER EXPRESS OR IMPLIED. 
+
+YOU ACKNOWLEDGE AND AGREE THAT THE CONSIDERATION YOU RECEIVE PURSUANT TO THIS AGREEMENT IS THE SOLE AND EXCLUSIVE CONSIDERATION YOU WILL 
+EVER RECEIVE IN CONNECTION WITH YOUR ASSIGNMENT, LICENSE GRANTS AND WARRANTIES UNDER THIS SECTION 3 AND YOUR OTHER OBLIGATIONS AND RESPONSIBILITIES 
+UNDER THIS AGREEMENT.
+
+4. SOFTWARE PROVIDED AS-IS
+
+THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND. SHARETRONIX EXPRESSLY DISCLAIMS ALL OTHER WARRANTIES, WHETHER SUCH WARRANTIES 
+ARE EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  
+YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE SOFTWARE IS AT YOUR SOLE RISK. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY SHARETRONIX 
+OR ANY OF ITS EMPLOYEES, REPRESENTATIVES, OR DISTRIBUTORS SHALL CREATE ANY WARRANTY IN ADDITION TO THOSE GIVEN HEREIN. SOME JURISDICTIONS 
+DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY IN FULL TO YOU.  ANY IMPLIED WARRANTIES NOT PERMITTED 
+TO BE EXCLUDED SHALL BE LIMITED TO THE MINIMUM WARRANTY AND PERIOD OF TIME PERMITTED BY APPLICABLE LAW.
+
+5. LIMITATION OF LIABILITY
+
+UNDER NO CIRCUMSTANCES SHALL SHARETRONIX BE LIABLE FOR ANY INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES THAT RESULT FROM THE USE OR INABILITY TO 
+USE THE SOFTWARE UNDER ANY THEORY, INCLUDING CONTRACT, TORT, OR NEGLIGENCE, EVEN IF SHARETRONIX HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
+IN NO EVENT SHALL SHARETRONIX'S TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION (WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE) 
+OR OTHERWISE) EXCEED THE AMOUNT PAID BY YOU FOR THE SPECIFIC LICENSE OF THE SOFTWARE TO WHICH THE LIABILITY IS RELATED. TO THE EXTENT THE LAWS OF 
+YOUR JURISDICTION DO NOT PERMIT SUCH A LIMITATION OF LIABILITY WITH RESPECT TO THE SOFTWARE, YOU AGREE THAT SHARETRONIX DISCLAIMS ALL LIABILITY TO 
+THE EXTENT PERMITTED BY APPLICABLE LAW.
+
+6. TERMINATION
+
+This Agreement may be terminated by either party upon written notice to the other party, and shall terminate automatically and without notice 
+if you breach any of the terms hereof.  The terms of this Agreement shall remain in full force and effect with respect to any Derivative Work 
+submitted prior to the termination date of this Agreement (as well as any assignment, license or right hereunder with respect thereto or with 
+respect to any related Intellectual Property Right or patent).  Upon termination, you must discontinue use of all of the Software and by 
+destroying all your copies of the applicable Software.
+
+7.  GOVERNMENT END USERS
+
+If the Software is supplied to or purchased by or on behalf of the United States Government, then the Software is deemed to be 
+"commercial software" as that term is used in the Federal Acquisition Regulation system. Rights of the United States shall not 
+exceed the minimum rights set forth in FAR 52.227-19 for "restricted computer software." All other terms and conditions of this Agreement apply.
+
+8. NOTICE
+
+Sharetronix may provide you with notices by email, regular mail, or any other method reasonably calculated to reach you.
+
+9. GENERAL INFORMATION
+
+Assignment.  This Agreement is personal to you. You may not assign or otherwise transfer your rights or delegate your obligations under this Agreement, 
+in whole or in part, without Sharetronix's prior written consent. Any attempted assignment by you shall be null and void. Sharetronix 
+may assign its right and obligations under this License at its sole discretion.  This Agreement shall bind each party's permitted successors and assigns.
+
+Choice of Law and Forum.  This Agreement and the relationship between you and Sharetronix shall be governed by the laws of the State of 
+California without regard to its conflict of law provisions. All disputes and claims arising out of or relating to, this Agreement or the 
+Software, shall be determined exclusively by final and binding arbitration, conducted under the Commercial Arbitration Rules of the American 
+Arbitration Association ("AAA") conducted in San Francisco, California, USA. The AAA Optional Rules for Emergency Measures of Protection shall 
+apply to the proceedings.  The foregoing notwithstanding, the terms of this paragraph do not apply to any breach or alleged breach of the 
+ownership or license rights of Sharetronix with respect to the Software (including any Derivative Works), and that, in such event, Sharetronix 
+will be irreparably harmed and, in addition to all other remedies provided by this Agreement or available at law, entitled to equitable and 
+injunctive relief without the requirement of posting a bond or other form of surety.. Except as expressly set forth above in this paragraph, 
+you and Sharetronix may litigate in court only to compel arbitration under this Agreement or to confirm, modify, vacate or enter judgment on 
+the award rendered by the arbitrators.  You and Sharetronix agree to submit to the personal and exclusive jurisdiction of the courts located 
+within the city and county of San Francisco, California, and each party waives its right to trial by jury. The parties agree that the prevailing 
+party herein shall be entitled to recover its costs, disbursements, and reasonable attorney's fees from the non-prevailing party following a 
+final judgment, and that the non-prevailing party shall pay the arbitrator's fees.
+
+Waiver and Severability of Terms. Sharetronix's failure to exercise or enforce any right or provision of this Agreement shall not constitute a 
+waiver of such right or provision. If any provision of this Agreement is found by a court of competent jurisdiction to be invalid, the parties 
+nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other 
+provisions of this Agreement shall remain in full force and effect.
+
+Statute of Limitations. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out 
+of or related to use of the Software, or this Agreement, must be filed within one (1) year after such claim or cause of action arose or be forever barred.
+
+Entire Agreement. This Agreement constitutes the entire agreement between you and Sharetronix and governs your use of the Software, superseding 
+any prior agreements between you and Sharetronix with respect to the Software. The parties have required that this Agreement and all documents 
+relating thereto be drawn up in English.  Les parties ont exigé que le présent contrat et tous les documents connexes soient rédigés en anglais.
+
+If you have any questions concerning this Agreement or the Software, you may contact Sharetronix:  
+Sharetronix, LLC, [1 California St, Suite 1900, San Francisco, CA 94111] Phone #: [415-951-0411] /, [info@sharetronix.com]
+
+
+--------------------------------------------------------------------------------------------
+============================================================================================
+--------------------------------------------------------------------------------------------
+
+
+
+Last modified:  November 14, 2012
+
+SHARETRONIX SOFTWARE
+INTERNAL BUSINESS USE LICENSE TERMS AND CONDITIONS
+
+IMPORTANT - READ CAREFULLY:
+
+THESE SOFTWARE LICENSE TERMS AND CONDITIONS CONSTITUTE A LEGAL AGREEMENT ("AGREEMENT") BETWEEN YOU AND SHARETRONIX, LLC ("SHARETRONIX") 
+WITH RESPECT TO YOUR USE OF THE SHARETRONIX SOFTWARE.  BY INSTALLING, COPYING, DOWNLOADING OR OTHERWISE ACCESSING THE SOFTWARE YOU 
+AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, 
+YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY TO THESE TERMS AND CONDITIONS, IN WHICH CASE THE TERMS "YOU" OR "YOUR" 
+SHALL REFER TO SUCH ENTITY.  IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE LICENSE TERMS AND CONDITIONS YOU 
+MAY NOT USE OR COPY THE SOFTWARE, YOU SHOULD PROMPTLY DESTROY ALL COPIES OF THE SOFTWARE AND DOCUMENTATION PRIOR TO ANY SUCH USE, 
+AND UPON YOUR WRITTEN CERTIFICATION TO SHARETRONIX THAT YOU HAVE NOT USED THE SOFTWARE AND DOCUMENTATION, AND HAVE DESTROYED YOUR 
+COPIES OF THE SOFTWARE AND DOCUMENTATION, SHARETRONIX WILL REFUND THE LICENSE FEE YOU HAVE PAID FOR SUCH USE. 
+
+1. DESCRIPTION OF SOFTWARE; PAYMENT AND UPDATES
+
+Sharetronix's software is a microblogging and social networking platform provided to you in source code form. The software and 
+documentation together are the "Software" for the purposes of this Agreement.
+
+The use of the Software under this Agreement is expressly conditioned on your payment of the license fees communicated to you 
+by Sharetronix in connection with your acquisition of a copy of the Software.
+
+From time to time, Sharetronix may make updates to the Software available to you.  If you wish to update your Software, you must 
+agree to the then-current Software license in order to receive the update, and if required by Sharetronix, you may be required to 
+pay an additional license fee for such updates.
+
+2. LICENSE GRANT
+
+Subject to the terms and conditions of this Agreement (including without limitation the terms of Section 3 below and your payment of 
+all fees charged by Sharetronix), Sharetronix grants you a non-exclusive, non-sublicensable and non-transferable license during the 
+term of this Agreement (a) to use, reproduce and make derivative works of the Software only for your internal business purposes, 
+and (b) to use, reproduce, and make derivative works of the Software in connection with the development of applications intended 
+to interface with the Software and modifications to the user interface of the Software (collectively, "Your Developments").  
+For the purposes of this license grant, "internal business purposes" includes, without limitation, communication within a company, 
+work-related communication among employees and other company personnel, project management work or communication with clients or 
+potential clients, but expressly excludes any offer of the use of the Software to any third party other than directly in connection 
+with the internal operation of your business, without regard to whether you charge a fee for such use.  No distribution rights are 
+granted herein with respect to any derivative works of the Software, nor any of Your Developments using any portion of the Software 
+(including without limitation any application programming interfaces to the Software).
+
+You agree that any distribution rights with respect to any derivative works of the Software and any of Your Developments using any 
+portion of the Software (including without limitation any application programming interfaces to the Software) shall be subject to the 
+terms and conditions of a separate agreement between you and Sharetronix, and that you will not distribute or otherwise make any such 
+items available to any third party unless and until Sharetronix has granted you such rights under such separate agreement.
+
+Sharetronix may, but has no obligation to, provide customer support and/or software upgrades, enhancements or modifications 
+for the Software (collectively, "Support").  Any Support Sharetronix may provide is provided in Sharetronix's sole discretion, 
+and Sharetronix may terminate such Support at any time without notice to you. Sharetronix may change, suspend, or discontinue 
+any aspect of the Software at any time, including the availability of any feature, interface or function.
+
+Sharetronix retains all right, title, and interest in and to the Products, all derivative works thereof, and all associated 
+intellectual property rights in each of those. All rights in the Products not expressly granted hereunder are reserved. Except 
+as expressly permitted in this Agreement you shall not cause or permit: (a) sublicensing, or (b) access or other dissemination 
+of the Software, in whole or in part, to any third party. No right, title or interest in or to any Sharetronix trademark, 
+service mark, trade name, or logo of Sharetronix or its licensors in granted under this Agreement.
+
+3. DERIVATIVE WORKS
+
+A "Derivative Work" is any derivative work or modification of, or any improvement to, the Software, including any implementation of 
+any application programming interfaces or other interfaces to the Software, any portion of Your Development that consists of the 
+foregoing, and any of Your Developments you submit to Sharetronix through any mechanism not specifically identified by Sharetronix 
+as the exclusive submission mechanism for distribution of Your Developments. You may submit Derivative Works to Sharetronix by any 
+means that may be available to you, but you are under no obligation to do so, and Sharetronix is under no obligation to accept any 
+Derivative Work you may submit to Sharetronix, nor to include any Derivative Work in any Software.  All Derivative Works shall be 
+subject to the terms and conditions of this Agreement, without any additional terms or conditions unless otherwise expressly agreed 
+by Sharetronix in a signed agreement or a form agreement provided by Sharetronix. Sharetronix receives no ownership rights in Your 
+Developments under this Agreement except as expressly set forth in this Section 3.
+
+As a condition to your use of the Software, you hereby irrevocably assign to Sharetronix all right, title and interest in and to 
+any and all Derivative Works you may create, including but not limited to all copyrights, moral rights, and other proprietary 
+rights therein (other than patents), existing under the law of any country in the world, or under any treaty 
+(collectively, ("Intellectual Property Rights"). You will execute all documents as reasonably requested by Sharetronix to 
+perfect any such rights in the Derivative Works in Sharetronix. 
+
+To the extent that under any applicable mandatory law, such rights are not assigned under this Agreement, you hereby grant Sharetronix 
+an exclusive (or non-exclusive if an exclusive license is not permitted under applicable law), unconditional, fully-paid, royalty-free, 
+worldwide, perpetual, irrevocable, transferable, assignable, and sublicenseable (to any number of tiers) license to fully use, exercise, 
+exploit and commercialize the Derivative Works and all Intellectual Property Rights therein in any manner now known or in the future discovered. 
+
+To the extent such license grant is non-exclusive or not fully valid, effective or enforceable under applicable mandatory law, 
+you hereby grant to Sharetronix (and anyone requested by Sharetronix), such rights and permissions (and to impose restriction on third parties) 
+as Sharetronix reasonably requests from time to time for Sharetronix to have a legal and business position as close as possible to full and 
+exclusive legal ownership.
+
+You hereby grant to Sharetronix and to and to any and all individuals and entities who obtain, access, use, or distribute any 
+Sharetronix product or derivative work thereof (by whomever made) a perpetual, non-exclusive, worldwide, fully paid-up, royalty free, 
+sublicensable, assignable, irrevocable (except as set forth below with respect to litigation) license to any patent rights to make, 
+have made, use, offer to sell, sell, import, and otherwise exploit or transfer your Derivative Works or further derivative works 
+thereof (by whomever made), where such license applies only to those patent claims licensable by you that are necessarily infringed 
+by your Derivative Work alone or by combination of your Derivative Work with other works associated with the Software. The patent 
+license granted in this paragraph shall immediately terminate with respect to any party that institutes patent litigation against 
+you or Sharetronix (including a cross-claim or counterclaim in a lawsuit) alleging that your Derivative Work, or the Software work 
+to which you have contributed, constitutes direct or contributory or other indirect patent infringement, or which seeks to invalidate 
+your patent claims or any Sharetronix patent claims.
+
+At no time hereafter shall You dispute, contest, or aid or assist others in disputing or contesting, either directly or indirectly, 
+Sharetronix's rights in any and all Derivative Works, including (but not limited to) any and all Intellectual Property Rights and 
+patent rights therein.  You also hereby forever waive and agree never to assert against Sharetronix, its successors, licensees, or 
+assignees, any and all moral rights you may have in any Derivative Works. 
+
+Upon making the assignment and grants set forth in this Section, you shall receive from Sharetronix a non-exclusive, worldwide, 
+fully paid-up, royalty-free, irrevocable license under the rights you have assigned or exclusively licensed to Sharetronix to use, 
+exercise, exploit and commercialize your Derivative Works and all Intellectual Property Rights therein (exclusive of any Software and 
+any underlying Sharetronix or third party Intellectual Property Rights) in any manner now known or in the future discovered.
+
+Upon public release of Software that includes your Derivative Work, unless you clearly communicate otherwise to Sharetronix, 
+Sharetronix may identify you in any acknowledgements section of the documentation.
+
+You represent and warrant the following with respect to all Derivative Works you submit to Sharetronix or make available 
+to any third party: (a) you are of the age of majority in your jurisdiction, and you are legally entitled to grant the above 
+assignment and license; (b) the assignment and license above do not conflict in any way with any of your obligations to or 
+agreements with any third party, including without limitation your employer; (c) no third party materials or Intellectual 
+Property Rights are included in any Derivative Work, including any of either of the foregoing belonging to your employer or 
+that you have licensed to any third party, and the rights you have granted herein do not constitute a violation of any third 
+party rights; (d) no permission, consent, approval or license is required from any government entity or third party for 
+Sharetronix to fully exploit the rights you have granted Sharetronix in the Derivative Works; and (e) you will promptly 
+notify Sharetronix of any facts or circumstances of which you become aware that would cause any of the foregoing representations 
+and warranties to be untrue or inaccurate. 
+EXCEPT FOR THE FOREGOING EXPRESS WARRANTIES, YOU DISCLAIM ALL WARRANTIES OF ANY KIND TO SHARETRONIX WITH RESPECT TO THE DERIVATIVE 
+WORKS, EITHER EXPRESS OR IMPLIED. 
+
+YOU ACKNOWLEDGE AND AGREE THAT THE CONSIDERATION YOU RECEIVE PURSUANT TO THIS AGREEMENT IS THE SOLE AND EXCLUSIVE CONSIDERATION 
+YOU WILL EVER RECEIVE IN CONNECTION WITH YOUR ASSIGNMENT, LICENSE GRANTS AND WARRANTIES UNDER THIS SECTION 3 AND YOUR OTHER 
+OBLIGATIONS AND RESPONSIBILITIES UNDER THIS AGREEMENT.
+
+4. SOFTWARE PROVIDED AS-IS
+
+THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND. SHARETRONIX EXPRESSLY DISCLAIMS ALL OTHER WARRANTIES, 
+WHETHER SUCH WARRANTIES ARE EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE SOFTWARE IS AT 
+YOUR SOLE RISK. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY SHARETRONIX OR ANY OF ITS EMPLOYEES, REPRESENTATIVES, 
+OR DISTRIBUTORS SHALL CREATE ANY WARRANTY IN ADDITION TO THOSE GIVEN HEREIN. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION 
+OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY IN FULL TO YOU.  ANY IMPLIED WARRANTIES NOT PERMITTED TO BE 
+EXCLUDED SHALL BE LIMITED TO THE MINIMUM WARRANTY AND PERIOD OF TIME PERMITTED BY APPLICABLE LAW.
+ 
+5. LIMITATION OF LIABILITY
+
+UNDER NO CIRCUMSTANCES SHALL SHARETRONIX BE LIABLE FOR ANY INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES THAT RESULT FROM THE USE 
+OR INABILITY TO USE THE SOFTWARE UNDER ANY THEORY, INCLUDING CONTRACT, TORT, OR NEGLIGENCE, EVEN IF SHARETRONIX HAS BEEN ADVISED 
+OF THE POSSIBILITY OF SUCH DAMAGES.  IN NO EVENT SHALL SHARETRONIX'S TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES, AND CAUSES 
+OF ACTION (WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE) EXCEED THE AMOUNT PAID BY YOU FOR THE SPECIFIC LICENSE 
+OF THE SOFTWARE TO WHICH THE LIABILITY IS RELATED. TO THE EXTENT THE LAWS OF YOUR JURISDICTION DO NOT PERMIT SUCH A LIMITATION 
+OF LIABILITY WITH RESPECT TO THE SOFTWARE, YOU AGREE THAT SHARETRONIX DISCLAIMS ALL LIABILITY TO THE EXTENT PERMITTED BY APPLICABLE LAW.
+
+6. TERMINATION
+
+This Agreement may be terminated by either party upon written notice to the other party, and shall terminate automatically 
+and without notice if you breach any of the terms hereof or fail to pay any license fee when due. The terms of this Agreement 
+shall remain in full force and effect with respect to any Derivative Work submitted prior to the termination date of this 
+Agreement (as well as any assignment, license or right hereunder with respect thereto or with respect to any related Intellectual 
+Property Right or patent).  Upon termination, you must discontinue use of all of the Software and by destroying all your copies of 
+the applicable Software.
+
+7.  GOVERNMENT END USERS
+
+If the Software is supplied to or purchased by or on behalf of the United States Government, then the Software is deemed to be 
+"commercial software" as that term is used in the Federal Acquisition Regulation system. Rights of the United States shall not 
+exceed the minimum rights set forth in FAR 52.227-19 for "restricted computer software." All other terms and conditions of this Agreement apply.
+
+8. NOTICE
+
+Sharetronix may provide you with notices by email, regular mail, or any other method reasonably calculated to reach you.
+
+9. GENERAL INFORMATION
+
+Assignment.  This Agreement is personal to you. You may not assign or otherwise transfer your rights or delegate your obligations 
+under this Agreement, in whole or in part, without Sharetronix's prior written consent. Any attempted assignment by you shall be 
+null and void. Sharetronix may assign its right and obligations under this License at its sole discretion.  This Agreement shall 
+bind each party's permitted successors and assigns.
+
+Choice of Law and Forum.  This Agreement and the relationship between you and Sharetronix shall be governed by the laws of the 
+State of California without regard to its conflict of law provisions. All disputes and claims arising out of or relating to, 
+this Agreement or the Software, shall be determined exclusively by final and binding arbitration, conducted under the Commercial 
+Arbitration Rules of the American Arbitration Association ("AAA") conducted in San Francisco, California, USA. The AAA Optional 
+Rules for Emergency Measures of Protection shall apply to the proceedings.  The foregoing notwithstanding, the terms of this 
+paragraph do not apply to any breach or alleged breach of the ownership or license rights of Sharetronix with respect to the 
+Software (including any Derivative Works), and that, in such event, Sharetronix will be irreparably harmed and, in addition 
+to all other remedies provided by this Agreement or available at law, entitled to equitable and injunctive relief without 
+the requirement of posting a bond or other form of surety. Except as expressly set forth above in this paragraph, you and 
+Sharetronix may litigate in court only to compel arbitration under this Agreement or to confirm, modify, vacate or enter 
+judgment on the award rendered by the arbitrators.  You and Sharetronix agree to submit to the personal and exclusive 
+jurisdiction of the courts located within the city and county of San Francisco, California, and each party waives its right 
+to trial by jury. The parties agree that the prevailing party herein shall be entitled to recover its costs, disbursements, 
+and reasonable attorney's fees from the non-prevailing party following a final judgment, and that the non-prevailing party 
+shall pay the arbitrator's fees.
+
+Waiver and Severability of Terms. Sharetronix's failure to exercise or enforce any right or provision of this Agreement shall 
+not constitute a waiver of such right or provision. If any provision of this Agreement is found by a court of competent jurisdiction 
+to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected 
+in the provision, and the other provisions of this Agreement shall remain in full force and effect.
+
+Statute of Limitations. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out 
+of or related to use of the Software, or this Agreement, must be filed within one (1) year after such claim or cause of action arose 
+or be forever barred.
+
+Entire Agreement. This Agreement constitutes the entire agreement between you and Sharetronix and governs your use of the Software, 
+superseding any prior agreements between you and Sharetronix with respect to the Software. The parties have required that this Agreement 
+and all documents relating thereto be drawn up in English.  Les parties ont exigé que le présent contrat et tous les documents connexes 
+soient rédigés en anglais.
+
+If you have any questions concerning this Agreement or the Software, you may contact Sharetronix:  
+Sharetronix, LLC, [1 California St, Suite 1900, San Francisco, CA 94111] Phone #: [415-951-0411] /, [info@sharetronix.com]
